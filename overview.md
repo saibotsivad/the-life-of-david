@@ -2,13 +2,9 @@
 
 This is before the book starts. It describes the reason why I started this book project.
 
-# Abraham to Jesus
-
-This sets the stage for the context of the whole book: when people were.
-
-Matthew 1:2-17
-
 # The Demise of the House of Eli and the Rise of Samuel as Prophet
+
+(This is the before-David times.)
 
 1 Samuel 1:20 "Elkanah lay with his wife .... asked the Lord for him."
 
@@ -30,4 +26,24 @@ Matthew 1:2-17
 
 1 Samuel 7:2-6 "It was a long time, 20 years ... Samuel was leader of Israel."
 
+1 Samuel 7:15-17 "Samuel continued as judge ... an altar to the Lord."
 
+# The First Human King of Israel
+
+1 Samuel 8:1-22 "When Samuel grew old ... go back to his own town."
+
+1 Samuel 10:17-25 "Samuel summoned the people ... each to his own home."
+
+1 Samuel 11:1-15 "Nahash the Ammonite ... all Israel held a great celebration."
+
+1 Samuel 13:1 "Saul was thirty years old when he became king, and he reigned over Israel forty-two years."
+
+# The Fall of the First Human King
+
+TODO
+
+# Abraham to Jesus
+
+This is the big change, it sets the stage for the context of David: when people were.
+
+Matthew 1:2-17

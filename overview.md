@@ -28,7 +28,9 @@ This is before the book starts. It describes the reason why I started this book 
 
 1 Samuel 7:15-17 "Samuel continued as judge ... an altar to the Lord."
 
-# The First Human King of Israel
+# The Rise and Fall of the First Human King of Israel
+
+> 1 Chronicles 9:35-44 "Jeiel the father of Gibeon ... the sons of Azel."
 
 1 Samuel 8:1-22 "When Samuel grew old ... go back to his own town."
 
@@ -36,14 +38,18 @@ This is before the book starts. It describes the reason why I started this book 
 
 1 Samuel 11:1-15 "Nahash the Ammonite ... all Israel held a great celebration."
 
-1 Samuel 13:1 "Saul was thirty years old when he became king, and he reigned over Israel forty-two years."
+> 1 Samuel 13:1 "Saul was thirty years old when he became king, and he reigned over Israel forty-two years."
 
-# The Fall of the First Human King
+1 Samuel 13:2-14 "Saul chose three thousand men ... the Lord's command."
 
-TODO
+TODO: is this referencing a law? what did Saul do wrong here?
 
-# Abraham to Jesus
+1 Samuel 14:47-48,52 "After Saul had assumed rule ... who had plundered them." "All the days ... into his service."
 
-This is the big change, it sets the stage for the context of David: when people were.
+1 Samuel 15:1-35 "Samuel said to Saul ... king over Israel."
 
-Matthew 1:2-17
+# David
+
+> Matthew 1:2-17 "Abraham became the father of Isaac ... fourteen generations."
+
+David was born probably about when Saul became king.

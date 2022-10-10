@@ -1,0 +1,15 @@
+{
+  "name": "the-life-of-david",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "parse": "node scripts/parse-book.js"
+  },
+  "dependencies": {
+    "@saibotsivad/blockdown": "^3.0.0",
+    "js-yaml": "^4.1.0",
+    "snarkdown": "^2.0.0",
+    "verse-reference-regex": "^1.3.0",
+    "world-english-bible": "^1.0.0"
+  }
+}
